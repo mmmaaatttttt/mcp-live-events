@@ -8,7 +8,7 @@ from .utils import format_events
 
 load_dotenv()
 
-server = Server("live-events-finder")
+server = Server("mcp-live-events")
 
 
 @server.list_tools()
