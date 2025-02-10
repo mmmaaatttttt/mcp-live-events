@@ -4,6 +4,8 @@
 the Ticketmaster API to provide real-time event data. It allows AI agents to
 fetch concert and event details dynamically.
 
+<a href="https://glama.ai/mcp/servers/964s5igske"><img width="380" height="200" src="https://glama.ai/mcp/servers/964s5igske/badge" alt="Live Events Server MCP server" /></a>
+
 ## Features
 
 - 🎟️ Integrates with the Ticketmaster API to search for events
