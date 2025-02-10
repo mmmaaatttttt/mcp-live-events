@@ -41,6 +41,9 @@ Ensure you have the following installed:
    of the `.env.example` file, or it can be placed in an "env" section of this
    server's configuration in your MCP client.
 
+   Note that on the Ticketmaster developer portal, the API key is named
+   "Consumer Key."
+
 ### Running the server
 
 ```sh
