@@ -5,6 +5,7 @@ from . import server
 
 def main():
     """Main entry point for the package."""
+    print("MCP Live Event server is running!")
     asyncio.run(server.main())
 
 
