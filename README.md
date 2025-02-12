@@ -1,5 +1,7 @@
 # MCP Live Events Server
 
+[![smithery badge](https://smithery.ai/badge/@mmmaaatttttt/mcp-live-events)](https://smithery.ai/server/@mmmaaatttttt/mcp-live-events)
+
 `mcp-live-events` is a Model Context Protocol (MCP) server that integrates with
 the Ticketmaster API to provide real-time event data. It allows AI agents to
 fetch concert and event details dynamically.
@@ -19,6 +21,14 @@ Ensure you have the following installed:
 - Python 3.13+
 - A [Ticketmaster](https://developer.ticketmaster.com/explore/) API key (free to
   use, but rate limited)
+
+### Installing via Smithery
+
+To install Live Events Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mmmaaatttttt/mcp-live-events):
+
+```bash
+npx -y @smithery/cli install @mmmaaatttttt/mcp-live-events --client claude
+```
 
 ### Installation
 
